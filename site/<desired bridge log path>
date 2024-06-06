@@ -1,0 +1,68 @@
+INFO 2024-06-06 03:48:52,878 daemon Exiting due to SIGINT
+INFO 2024-06-06 05:26:22,035 judge_handler Judge connected from: ('127.0.0.1', 41798)
+INFO 2024-06-06 05:26:22,137 judge_handler Judge authenticated: ('127.0.0.1', 41798) (DUC)
+INFO 2024-06-06 05:27:21,811 judge_list Free judges: 1
+INFO 2024-06-06 05:27:21,826 judge_list Dispatched submission 1 to: DUC
+INFO 2024-06-06 05:27:21,848 judge_handler Submission acknowledged: 1
+INFO 2024-06-06 05:27:24,498 judge_handler DUC: Submission generated compiler messages: 1
+INFO 2024-06-06 05:27:24,503 judge_handler DUC: Grading has begun on: 1
+INFO 2024-06-06 05:27:24,709 judge_handler DUC: 5 test case(s) completed on: 1
+INFO 2024-06-06 05:27:24,959 judge_handler DUC: 7 test case(s) completed on: 1
+INFO 2024-06-06 05:27:25,210 judge_handler DUC: 8 test case(s) completed on: 1
+INFO 2024-06-06 05:27:25,460 judge_handler DUC: 6 test case(s) completed on: 1
+INFO 2024-06-06 05:27:25,712 judge_handler DUC: 8 test case(s) completed on: 1
+INFO 2024-06-06 05:27:25,963 judge_handler DUC: 7 test case(s) completed on: 1
+INFO 2024-06-06 05:27:26,213 judge_handler DUC: 7 test case(s) completed on: 1
+INFO 2024-06-06 05:27:26,311 judge_handler DUC: 2 test case(s) completed on: 1
+INFO 2024-06-06 05:27:26,330 judge_handler DUC: Grading has ended on: 1
+INFO 2024-06-06 05:27:26,330 judge_list Judge available after grading 1: DUC
+INFO 2024-06-06 06:23:12,208 judge_handler Judge connected from: ('127.0.0.1', 57570)
+INFO 2024-06-06 06:23:12,215 judge_handler Judge authenticated: ('127.0.0.1', 57570) (DUC)
+INFO 2024-06-06 06:23:53,582 judge_list Free judges: 1
+INFO 2024-06-06 06:23:53,582 judge_list Dispatched submission 2 to: DUC
+INFO 2024-06-06 06:23:53,595 judge_handler Submission acknowledged: 2
+INFO 2024-06-06 06:23:56,253 judge_handler DUC: Submission generated compiler messages: 2
+INFO 2024-06-06 06:23:56,257 judge_handler DUC: Grading has begun on: 2
+INFO 2024-06-06 06:23:56,532 judge_handler DUC: 4 test case(s) completed on: 2
+INFO 2024-06-06 06:23:56,783 judge_handler DUC: 6 test case(s) completed on: 2
+INFO 2024-06-06 06:23:57,034 judge_handler DUC: 8 test case(s) completed on: 2
+INFO 2024-06-06 06:23:57,284 judge_handler DUC: 6 test case(s) completed on: 2
+INFO 2024-06-06 06:23:57,535 judge_handler DUC: 8 test case(s) completed on: 2
+INFO 2024-06-06 06:23:57,785 judge_handler DUC: 7 test case(s) completed on: 2
+INFO 2024-06-06 06:23:58,036 judge_handler DUC: 7 test case(s) completed on: 2
+INFO 2024-06-06 06:23:58,287 judge_handler DUC: 3 test case(s) completed on: 2
+INFO 2024-06-06 06:23:58,344 judge_handler DUC: 1 test case(s) completed on: 2
+INFO 2024-06-06 06:23:58,374 judge_handler DUC: Grading has ended on: 2
+INFO 2024-06-06 06:23:58,374 judge_list Judge available after grading 2: DUC
+INFO 2024-06-06 06:58:55,338 judge_list Free judges: 1
+INFO 2024-06-06 06:58:55,338 judge_list Dispatched submission 2 to: DUC
+INFO 2024-06-06 06:58:55,350 judge_handler Submission acknowledged: 2
+INFO 2024-06-06 06:58:57,606 judge_handler DUC: Submission generated compiler messages: 2
+INFO 2024-06-06 06:58:57,614 judge_handler DUC: Grading has begun on: 2
+INFO 2024-06-06 06:58:57,891 judge_handler DUC: 6 test case(s) completed on: 2
+INFO 2024-06-06 06:58:58,142 judge_handler DUC: 5 test case(s) completed on: 2
+INFO 2024-06-06 06:58:58,392 judge_handler DUC: 7 test case(s) completed on: 2
+INFO 2024-06-06 06:58:58,643 judge_handler DUC: 7 test case(s) completed on: 2
+INFO 2024-06-06 06:58:58,895 judge_handler DUC: 6 test case(s) completed on: 2
+INFO 2024-06-06 06:58:59,146 judge_handler DUC: 3 test case(s) completed on: 2
+INFO 2024-06-06 06:58:59,398 judge_handler DUC: 7 test case(s) completed on: 2
+INFO 2024-06-06 06:58:59,648 judge_handler DUC: 8 test case(s) completed on: 2
+INFO 2024-06-06 06:58:59,668 judge_handler DUC: 1 test case(s) completed on: 2
+INFO 2024-06-06 06:58:59,679 judge_handler DUC: Grading has ended on: 2
+INFO 2024-06-06 06:58:59,679 judge_list Judge available after grading 2: DUC
+INFO 2024-06-06 07:00:13,678 judge_list Free judges: 1
+INFO 2024-06-06 07:00:13,678 judge_list Dispatched submission 2 to: DUC
+INFO 2024-06-06 07:00:13,689 judge_handler Submission acknowledged: 2
+INFO 2024-06-06 07:00:16,288 judge_handler DUC: Submission generated compiler messages: 2
+INFO 2024-06-06 07:00:16,295 judge_handler DUC: Grading has begun on: 2
+INFO 2024-06-06 07:00:16,476 judge_handler DUC: 5 test case(s) completed on: 2
+INFO 2024-06-06 07:00:16,726 judge_handler DUC: 7 test case(s) completed on: 2
+INFO 2024-06-06 07:00:16,977 judge_handler DUC: 5 test case(s) completed on: 2
+INFO 2024-06-06 07:00:17,227 judge_handler DUC: 5 test case(s) completed on: 2
+INFO 2024-06-06 07:00:17,478 judge_handler DUC: 5 test case(s) completed on: 2
+INFO 2024-06-06 07:00:17,729 judge_handler DUC: 8 test case(s) completed on: 2
+INFO 2024-06-06 07:00:17,979 judge_handler DUC: 7 test case(s) completed on: 2
+INFO 2024-06-06 07:00:18,234 judge_handler DUC: 6 test case(s) completed on: 2
+INFO 2024-06-06 07:00:18,294 judge_handler DUC: 2 test case(s) completed on: 2
+INFO 2024-06-06 07:00:18,307 judge_handler DUC: Grading has ended on: 2
+INFO 2024-06-06 07:00:18,308 judge_list Judge available after grading 2: DUC
