@@ -1,3 +1,4 @@
+# Khi mới cài ubuntu khuyến khích nên để username: hauvan thì khỏi sửa path :))
 # Các bước setup
 `Khi nó yêu cầu quyền thì chứ đặt sudo trước các câu lệnh là okela`
 1. Cài đặt những cái cần thiết khi mới cài linux
